@@ -1,0 +1,9 @@
+test_images/
+data/
+__pycache__/
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+/static/index1.html
+.idea/*
+.idea/workspace.xml
+/yolov3.weights
